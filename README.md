@@ -1,2 +1,3 @@
 # Code_crash101
-This is Better than Vs code for html *lol*
+This is a real time html editor using "Ace". 
+I have Made this using Html5 Css3 And Javascript. 
